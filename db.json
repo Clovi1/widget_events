@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "date": "03.feb",
+      "time": "12:00",
+      "title": "Send a report"
+    },
+    {
+      "id": "2",
+      "date": "08.feb",
+      "time": "13:00",
+      "title": "Prepare for a meeting with a client"
+    },
+    {
+      "id": "3",
+      "date": "12.feb",
+      "time": "13:30",
+      "title": "Buy equipment"
+    },
+    {
+      "id": "4",
+      "date": "17.feb",
+      "time": "11:00",
+      "title": "Get a visa"
+    },
+    {
+      "id": "5",
+      "date": "28.feb",
+      "time": "18:30",
+      "title": "Finish the coursework"
+    },
+    {
+      "id": "6",
+      "date": "28.feb",
+      "time": "18:30",
+      "title": "Test"
+    },
+    {
+      "id": "7",
+      "date": "28.feb",
+      "time": "18:30",
+      "title": "Test 2"
+    }
+  ]
+}
