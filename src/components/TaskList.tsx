@@ -2,9 +2,9 @@ import React, {FC, useEffect} from 'react';
 import {useRootStore} from "../mst/store/RootStore.store";
 import {observer} from "mobx-react-lite";
 import TaskItem from "./TaskItem";
-import {FunctionsPopover} from "./FunctionsPopover";
 
-const TaskList:FC = observer(() => {
+
+const TaskList: FC = observer(() => {
     const {fetchTasks, tasks} = useRootStore()
 
     useEffect(() => {
